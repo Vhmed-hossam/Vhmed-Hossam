@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello , I am Ahmed A proffessional Ui/Ux Designer<br>and a Front-End Developer<br>
-
+Young and eager frontend developer with a keen interest in creating eye-catching and easy-to-use designs. Shows skill in designing and coding flexible and intuitive web applications using current frameworks and technologies like React.js. Stands out in blending creative UI/UX designs with high performance to give users a top-quality experience.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ahmed_Hossam16) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vhm4dh0ss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vhm4d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hossam-81260634a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vhm4d) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Broad-Shock1076) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29474184) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vd37kv) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vd37kv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vhmd4d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCY9Mfl5tA9SMBTof7axf6PQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vhmdhoss@gmail.com) 
@@ -20,5 +19,3 @@ Hello , I am Ahmed A proffessional Ui/Ux Designer<br>and a Front-End Developer<b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vhmed-hossam&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
