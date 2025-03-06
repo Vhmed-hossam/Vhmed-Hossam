@@ -65,7 +65,6 @@ Passionate about web performance, UX research, and design systems, I love turnin
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo"  />
   <img width="12" />
