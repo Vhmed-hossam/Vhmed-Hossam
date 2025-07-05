@@ -17,19 +17,33 @@ Emotion about web performance, UX research and design systems, I like to transfo
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="25" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="25" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="25" alt="jquery logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="25" alt="typescript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="25" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="25" alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="25" alt="jquery logo" />
+    <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="25" alt="eslint logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="25" alt="redux logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="25" alt="materialui logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo" />
+    <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo" />
+    <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo" />
+    <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo" />
+  </p>
 </div>
 
 ###
