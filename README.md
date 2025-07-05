@@ -14,61 +14,60 @@ Emotion about web performance, UX research and design systems, I like to transfo
 
 <h2 align="left">My Languages and Tools</h2>
 
-
-<h3 align="left">Languages & Frameworks</h3>
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="25" alt="javascript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="25" alt="typescript logo"  />
 </div>
 
 ###
 
+<h3 align="left">Languages & Frameworks</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="25" alt="npm logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="25" alt="express logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="25" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="25" alt="jquery logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="25" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="25" alt="materialui logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=notion" height="25" alt="notion logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="25" alt="slack logo"  />
+  <img src="https://skillicons.dev/icons?i=slack" height="25" alt="slack logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="25" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="25" alt="visualstudio logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="25" alt="eslint logo"  />
+  <img src="https://skillicons.dev/icons?i=eslint" height="25" alt="eslint logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  />
   <img width="20" />
@@ -76,7 +75,6 @@ Emotion about web performance, UX research and design systems, I like to transfo
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
 </div>
-
 
 ###
 
