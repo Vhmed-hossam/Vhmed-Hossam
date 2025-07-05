@@ -16,35 +16,31 @@ Emotion about web performance, UX research and design systems, I like to transfo
 
 <h2 align="left">My Languages and Tools</h2>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="HTML5" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="30" alt="jQuery" /></td>
-    <td><img src="https://skillicons.dev/icons?i=regex" height="30" alt="Regex" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" /></td>
-    <td><img src="https://skillicons.dev/icons?i=powershell" height="30" alt="Powershell" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="ESLint" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /></td>
-    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ai" height="30" alt="Illustrator" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" /></td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="25" alt="eslint logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="25" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+</div>
 
 
 ###
