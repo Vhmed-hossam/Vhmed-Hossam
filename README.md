@@ -61,19 +61,23 @@ Emotion about web performance, UX research and design systems, I like to transfo
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=notion" height="25" alt="notion logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=slack" height="25" alt="slack logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="25" alt="typescript logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="25" alt="visualstudio logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=eslint" height="25" alt="eslint logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redux" height="25" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="25" alt="netlify logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postman" height="25" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="25" alt="sass logo"  />
 </div>
 
 ###
