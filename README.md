@@ -2,11 +2,13 @@
 
 ###
 
-<h5 align="left">A young front-end developer with deep interest in catching the eye and creating a user friendly design. Skilled in react.js, I specialize in designing and coding flexible, intuitive web applications using the latest framework and technologies.
+<h5 align="left">A talented Frontend developer with deep interest in creating a user friendly design. Skilled in React.js, I specialize in designing and coding flexible, proffesional web applications using the latest framework and technologies with the small detail importance.
+I combine creative UI/UX design with high-demonstration development to give the best user experience.
 
-I combine creative UI/UX design with high-demonstration development to give top-quality user experiences. My expertisees include modern web development, user-centered designs and highly interactive digital experiences. With specialization in HTML, CSS, Javascript, React.JS, and UI/UX design, I focus on the creation of responsible, accessible and blind attractive websites.
+As a creative Frontend developer, I Mix technical expertise, creativity and problems to elevate every project, With a deep understanding of the coding tech From HTML, CSS, and JavaScript to React.js and Vite — I work with tools like Bootstrap, Tailwind CSS, Redux, Zustand, MongoDB, and Socket.io, along with modern frameworks like Next.js, Framer, GSAP, and Spline to build powerful performance and an interactive experiences,
+I specialize in the creation of visually attractive, spontaneous and high-demonstration websites.
 
-Emotion about web performance, UX research and design systems, I like to transform ideas into spontaneous user experiences. Let's make something amazing!</h5>
+I mostly care about web performance, UX research, Design systems and a Friendly detailed design, I like to transform ideas into a website Focused on designing the best possible user experience.</h5>
 
 ###
 
