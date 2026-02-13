@@ -99,15 +99,6 @@ I mostly care about web performance, UX research, Design systems and a Friendly 
   <a href="https://www.behance.net/Ahmed_Hossam16" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="32" height="20" alt="behance logo"  />
   </a>
-  <a href="https://dribbble.com/Vhm4d" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="32" height="20" alt="dribbble logo"  />
-  </a>
-  <a href="https://dev.to/vhm4dhoss" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="32" height="20" alt="devto logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29474184/vhmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="32" height="20" alt="stackoverflow logo"  />
-  </a>
   <a href="https://x.com/Vhmd4d" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
   </a>
