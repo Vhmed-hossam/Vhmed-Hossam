@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Ahmed Hossam</h2>
-
+<div align="center">
+  <img src="readmebanner.png" alt="Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+</div>
 ###
 
 <h5 align="left">A talented Frontend developer with deep interest in creating a user friendly design. Skilled in React.js, I specialize in designing and coding flexible, proffesional web applications using the latest framework and technologies with the small detail importance.
