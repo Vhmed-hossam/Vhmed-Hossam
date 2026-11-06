@@ -3,13 +3,7 @@
 </div>
 ###
 
-<h5 align="left">A talented Frontend developer with deep interest in creating a user friendly design. Skilled in React.js, I specialize in designing and coding flexible, proffesional web applications using the latest framework and technologies with the small detail importance.
-I combine creative UI/UX design with high-demonstration development to give the best user experience.
-
-As a creative Frontend developer, I Mix technical expertise, creativity and problems to elevate every project, With a deep understanding of the coding tech From HTML, CSS, and JavaScript to React.js and Vite — I work with tools like Bootstrap, Tailwind CSS, Redux, Zustand, MongoDB, and Socket.io, along with modern frameworks like Next.js, Framer, GSAP, and Spline to build powerful performance and an interactive experiences,
-I specialize in the creation of visually attractive, spontaneous and high-demonstration websites.
-
-I mostly care about web performance, UX research, Design systems and a Friendly detailed design, I like to transform ideas into a website Focused on designing the best possible user experience.</h5>
+<h5 align="left">A passionate frontend developer who loves designing user-friendly and high-performing web applications that are appealing. A React.js, Next.js, JavaScript, and modern technology proficient frontend developer with strong proficiency in creating responsive designs using the principles of UI and UX design. Web Performance and Design Systems enthusiast as well.</h5>
 
 ###
 <h2 align="left">https://vhmd-hoss.vercel.app/</h2>
