@@ -1,7 +1,6 @@
 <div align="center">
   <img src="readme banner.png" alt="Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
-###
 
 <h5 align="left">A passionate frontend developer who loves designing user-friendly and high-performing web applications that are appealing. A React.js, Next.js, JavaScript, and modern technology proficient frontend developer with strong proficiency in creating responsive designs using the principles of UI and UX design. Web Performance and Design Systems enthusiast as well.</h5>
 
