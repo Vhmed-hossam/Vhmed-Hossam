@@ -87,27 +87,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-hossam-81260634a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+    <img src="linkedinlink.png" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/Ahmed_Hossam16" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="32" height="20" alt="behance logo"  />
+    <img src="behancelink.png" height="24" alt="behance logo"  />
   </a>
-  <a href="https://x.com/Vhmd4d" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
+  <a href="https://vhmd-hoss.vercel.app" target="_blank">
+    <img src="vhmdhosslink.png" height="24" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Vhmed-Hossam&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vhmed-Hossam&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="400" alt="activity graph"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -115,3 +103,4 @@
 
 ###
 
+<img src="bottombanner.png" alt="Snake animation" />
