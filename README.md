@@ -6,9 +6,9 @@
 
 <table width="100%">
 <tr>
-<td>
+<td  width="100%">
 
-### &gt; Hey there! I'm Vhmed Hossam👋
+### Hey there! I'm Vhmed Hossam
 
 </td>
 </tr>
@@ -30,7 +30,7 @@ My technical playground revolves around React, Next.js, Tailwind CSS, and Node.j
 
 <td align="center" valign="middle">
 
-<img src="pyramid.png" width="250" />
+<img src="pyramid.png" width="340" />
 
 </td>
 </tr>
