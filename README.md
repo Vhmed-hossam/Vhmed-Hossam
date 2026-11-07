@@ -115,7 +115,7 @@ My technical playground revolves around React, Next.js, Tailwind CSS, and Node.j
 
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/saturn.gif" width="180" alt="Saturn animation" />
+<img src="pyramid.png" width="180" />
 
 </td>
 </tr>
