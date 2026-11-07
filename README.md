@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 **Frontend Developer & UI/UX Designer**
 
@@ -28,7 +28,7 @@ My technical playground revolves around React, Next.js, Tailwind CSS, and Node.j
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="pyramid.png" width="250" />
 
