@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
 **Frontend Developer & UI/UX Designer**
 
