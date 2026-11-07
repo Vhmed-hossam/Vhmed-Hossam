@@ -72,24 +72,6 @@
   <img src="https://skillicons.dev/icons?i=sass" height="25" alt="sass logo"  />
 </div>
 
-###
-<div align="center">
-
-<a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/▲_UPDROP.IN-000000?style=flat-square&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/▣_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/✉_GMAIL-000000?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yourusername/yourusername/raw/main/resume.pdf">
-  <img src="https://img.shields.io/badge/⬇_RESUME-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</a>
-
-</div>
-
 <br clear="both">
 
 <div align="center">
