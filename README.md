@@ -2,7 +2,7 @@
   <img src="readme banner.png" alt="Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
-<h5 align="left">A passionate frontend developer who loves designing user-friendly and high-performing web applications that are appealing. A React.js, Next.js, JavaScript, and modern technology proficient frontend developer with strong proficiency in creating responsive designs using the principles of UI and UX design. Web Performance and Design Systems enthusiast as well.</h5>
+<h5 align="center">A passionate frontend developer who loves designing user-friendly and high-performing web applications that are appealing. A React.js, Next.js, JavaScript, and modern technology proficient frontend developer with strong proficiency in creating responsive designs using the principles of UI and UX design. Web Performance and Design Systems enthusiast as well.</h5>
 <h2 align="left">My Languages and Tools</h2>
 
 <div align="left">
@@ -72,6 +72,54 @@
 </div>
 
 ###
+<div align="center">
+
+<a href="https://your-website.com">
+  <img src="https://img.shields.io/badge/▲_UPDROP.IN-000000?style=flat-square&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/▣_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/✉_GMAIL-000000?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yourusername/yourusername/raw/main/resume.pdf">
+  <img src="https://img.shields.io/badge/⬇_RESUME-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</div>
+
+<table width="100%">
+<tr>
+<td>
+
+### &gt; Hey there! I'm Your Name 👋
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+**Frontend Developer & UI/UX Designer**
+
+I am passionate about crafting minimalist, high-performance web applications and building efficient digital experiences.
+
+Currently, I'm focusing my energy on building modern web applications and exploring new technologies.
+
+My technical playground revolves around React, Next.js, Tailwind CSS, and Node.js, with a passion for creating clean interfaces and seamless user experiences.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/saturn.gif" width="180" alt="Saturn animation" />
+
+</td>
+</tr>
+</table>
 
 <br clear="both">
 
