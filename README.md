@@ -8,7 +8,7 @@
 <tr>
 <td>
 
-### &gt; Hey there! I'm Your Name 👋
+### &gt; Hey there! I'm Vhmed Hossam👋
 
 </td>
 </tr>
@@ -30,7 +30,7 @@ My technical playground revolves around React, Next.js, Tailwind CSS, and Node.j
 
 <td width="30%" align="center" valign="middle">
 
-<img src="pyramid.png" width="180" />
+<img src="pyramid.png" width="250" />
 
 </td>
 </tr>
