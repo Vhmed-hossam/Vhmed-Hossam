@@ -28,7 +28,7 @@ My technical playground revolves around React, Next.js, Tailwind CSS, and Node.j
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td align="center" valign="middle">
 
 <img src="pyramid.png" width="250" />
 
