@@ -4,7 +4,7 @@
 
 <h5 align="center">A passionate frontend developer who loves designing user-friendly and high-performing web applications that are appealing. A React.js, Next.js, JavaScript, and modern technology proficient frontend developer with strong proficiency in creating responsive designs using the principles of UI and UX design. Web Performance and Design Systems enthusiast as well.</h5>
 
-<h2 align="left">My Languages and Tools</h2>
+<h2 align="left">Languages</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
